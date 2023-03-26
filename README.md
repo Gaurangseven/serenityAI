@@ -1,16 +1,36 @@
-# serenityai
+<h1 align="center">Hack36 Template Readme</h1>
+<p align="center">
+</p>
 
-A new Flutter project.
+<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
 
-## Getting Started
+## Serenity AI
+## Introduction:
+  Serenity is one stop AI based mood detection for depressed people
+  
+## Demo Video Link:
+  <a href="https://youtu.be/83BsJC4sH0o</a>
+  
+## Presentation Link:
+  <a href="https://docs.google.com/presentation/d/1hUZwuc_D6hjJKbA0-h_QvSzcLfDwkMfXuofTIfiJ04g/edit?usp=sharing"> PPT link here </a>
+  
+  
+## Table of Contents:
 
-This project is a starting point for a Flutter application.
+## Technology Stack:
+  1) Flutter
+  2) Machine Learning 
+  3) Python
+  
 
-A few resources to get you started if this is your first Flutter project:
+## Contributors:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Team Name: Code_Pirates
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Gaurang Mishra](https://github.com/Gaurangseven) App UI and Idea
+* [Shubhum Kumar Shukla](https://github.com/Shubhamkumar90) ML& Data model
+
+
+
+### Made at:
+<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
