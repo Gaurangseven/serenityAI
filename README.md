@@ -25,7 +25,7 @@
 
 ## Contributors:
 
-Team Name: Code_Pirates
+Team Name: ECCElites
 
 * [Gaurang Mishra](https://github.com/Gaurangseven) App UI and Idea
 * [Shubhum Kumar Shukla](https://github.com/Shubhamkumar90) ML& Data model
